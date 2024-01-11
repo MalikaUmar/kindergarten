@@ -1,0 +1,42 @@
+html {
+    text-align: center;
+}
+
+nav {
+    display: inline;
+    ;
+}
+
+.intro {
+    background-image: url(/graphics/banner.jpg);
+    color: white;
+}
+
+.mission {
+    background-color: yellow;
+    color: black;
+}
+
+.about {
+    background-color: white;
+    color: black;
+}
+
+.team {
+    background-color: red;
+    color: white;
+}
+
+.contact {
+    background-color: blue;
+    color: white;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+}
